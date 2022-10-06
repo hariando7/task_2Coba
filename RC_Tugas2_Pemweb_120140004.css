@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 250px;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgb(82, 45, 45);
+    text-align: center;
+    border-radius: 30px;
+    transform: translate(-50%, -50%);
+}
